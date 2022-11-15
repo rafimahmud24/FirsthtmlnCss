@@ -1,0 +1,14 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Open external.html",
+      "file": "d:\\University\\9th Semester\\SE 322  Software Engineering Web Application Lab\\Practice\\PHP Training\\3 - Introduction to CSS\\4- External CSS\\external.html"
+    }
+  ]
+}
